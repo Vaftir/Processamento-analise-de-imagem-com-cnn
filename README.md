@@ -1,3 +1,3 @@
-﻿# TRABALHÃO BAESSE E EU
+﻿# Trabalho de redes neurais. 
  
- coloca sua matrícula e se possível comenta o código se faltar
+ Para entender melhor o que foi feito por favor leia o artigo
