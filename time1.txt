@@ -1,0 +1,1 @@
+Execucao {time:0.4f} seconds
